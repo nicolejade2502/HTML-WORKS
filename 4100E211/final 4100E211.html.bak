@@ -1,0 +1,117 @@
+<html>
+  
+<head>
+  <title>This is Nicole Jade Fernandez speaking</title>
+  <meta charset="UTF-8">
+  <style>
+
+.center{
+  text-align: center;
+}
+</style>
+</head>  
+  
+<body>
+
+<h1 style="font-family:Papyrus"; class="center">My Funny Website </h1>
+<h3 class="center">Student: Nicole Jade Fernandez</h3>
+<h5 class="center">Student No: 4100E211</h5>
+<h5 class="center"> <a target="_blank" href="https://github.com/nicolejade2502/Jadewy4100E211">My Github</a></h5>
+<h5 class="center">Teacher: Mydeargreatteacher</h5>
+
+<hr>
+
+<h1><marquee scrollamount="5" direction="left">Welcome</marquee></h1>
+<h3><marquee scrollamount="5" direction="right"></marquee><h/3>
+<hr>
+<marquee scrollamount="5" direction="right"> <a target="_blank" href ="https://www.pinterest.com/pin/310748443040657182/"><img src="panda4.gif" border="0"></a> </marquee>
+
+<hr>
+
+<h2 class="center">TOPICS</h2>
+<hr>
+<dl>
+  <dt>Agenda</dt>
+  <dd>Html </dd>
+  <dd>CSS</dd>
+  <dd>Server-side Programming Php</dd>
+  <dd>Javascript</dd>
+  <dt>HTML LISTS:ordered vs unordered</dt>
+</dl>
+<h2>An unordered HTML list</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+<ol>
+  <li>Moon</li>
+  <li>Sun</li>
+  <li>Star</li>
+</ol> 
+<hr>
+<h2  class="center" style="font-family:Segoe Print">MY HTML WORKS</h2>
+<hr>
+
+<h3  class="center"> <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">REFERENCES</a></h3>
+<HR>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/html_1.html">HTML 1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/html_2.html">HTML 2</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/html_3.html">HTML 3</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/html_4.html">HTML 4</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/html_5.html">HTML 5</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/index_1.html">INDEX_1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/table_1.html">TABLE</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/index.html">INDEX</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/form_1.html">FORM_1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/List.html">LIST</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/canvas_1.html">CANVAS_1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Colors.html">COLORS</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Emojis.html">EMOJIS</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Links.html">LINKS</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Video_1.html">MY FAVORITE MOVIE</a> </h4>
+
+<hr>  
+<h2 class="center"style="font-family:Segoe Print">MY CSS WORKS</h2>
+<HR>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Css1.html">CSS 1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Css2.html">CSS 2</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Css3.html">CSS 3</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Css4.html">CSS 4</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/borders.html">CSS 5</a> </h4>
+<hr> 
+<h2 class="center"style="font-family:Segoe Print">JAVASCRIPT</h2>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_1.html">Javascript 1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_2.html">Javascript 2</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_3.html">Javascript 3</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/JavaScript_4.html">Javascript 4</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_5.html">Javascript 5</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_6.html">Javascript 6</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/Javascript_7.html">Javascript 7</a> </h4>
+
+
+
+<hr>
+<h2 class="center" style="font-family:Segoe Print">MY SERVER-SIDE PROGRAMMING WITH PHP </h2>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/php.php">PHP</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/php1.php">PHP 1</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/php2.php">PHP 2</a> </h4>
+<h4 class="center"> <a  class="center" target="_blank" href="http://192.168.0.7/4100E211/function.php">FUNCTION</a> </h4>
+</body>
+</html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('panda.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: 100% 100%;
+}
+</style>
+</head>
+
+</body>
+</html>
+

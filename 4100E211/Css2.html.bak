@@ -1,0 +1,15 @@
+<html><head>
+<style>
+body {background-color: Pastel Blue;}
+h1   {color: black;}
+p    {color: black;}
+</style>
+</head>
+<body>
+
+<h1>The Heading</h1>
+<p>The Paragraph.</p>
+
+
+
+</body></html>
